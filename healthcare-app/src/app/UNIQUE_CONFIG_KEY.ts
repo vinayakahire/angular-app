@@ -1,0 +1,1 @@
+export const UNIQUE_CONFIG_KEY = 'UNIQUE_CONFIG_KEY';
